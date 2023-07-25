@@ -1,0 +1,53 @@
+{
+	"id": -1,
+	"name": "The Corridor Digital Logo",
+	"description": "The Logo of Corridor Digital, A group of filmmakers who make videos and shortfilms on their own website, and on their youtube accounts: Corridor and Corridor Crew",
+	"links": {
+		"website": [
+			"https://www.corridordigital.com/",
+			"https://www.youtube.com/@Corridor",
+			"https://www.youtube.com/@CorridorCrew",
+			"https://www.youtube.com/@corridorcast"
+		],
+		"subreddit": [
+			"Corridor"
+		],
+		"discord": [
+			"WmsyggF"
+		]
+	},
+	"path": {
+		"67-255": [
+			[
+				210,
+				17
+			],
+			[
+				222,
+				4
+			],
+			[
+				222,
+				1
+			],
+			[
+				209,
+				-11
+			],
+			[
+				195,
+				3
+			],
+			[
+				210,
+				16
+			]
+		]
+	},
+	"center": {
+		"67-255": [
+			210,
+			3
+		]
+	}
+}
